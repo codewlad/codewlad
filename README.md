@@ -2,8 +2,8 @@
 
 Desde muito jovem sou fascinado por computadores e sempre estou em busca de conhecimento. Comecei explorando a criação de jogos, sites, design e hoje como desenvolvedor, busco trazer soluções inovadoras com qualidade e profissionalismo.
 
-- 🔭 Atualmente buscando trabalhos como Desenvolvedor Web
-- 🌱 Estudando React Native e TypeScript
+- 🔭 Trabalhando atualmente como Desenvolvedor de Software
+- 🌱 Estudando C# e SQL
 <br>
 
 <div>
